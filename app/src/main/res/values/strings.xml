@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SparkAirlines</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="profil">Profil</string>
+    <string name="pocetna">Početna</string>
+    <string name="buducaPutovanja">Buduća putovanja</string>
+    <string name="proslaPutovanja">Prošla putovanja</string>
+    <string name="kontakt">Kontakt</string>
+    <string name="logout">Logout</string>
+    <string name="profileName">Mirza Sikirić</string>
+    <string name="profileEmail">mirza@mirza.com</string>
+</resources>
